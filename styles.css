@@ -724,7 +724,7 @@ h3.my-profession {
     .about .about-content .experience,
     .about .about-content .skills,
     .about-content .personal-info {
-        position: absolute;
+        position: relative;
         flex: 0 0 100%;
         max-width: 100%;
     }
