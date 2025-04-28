@@ -520,10 +520,19 @@ h3.my-profession {
     line-height: 60px;
     color: var(--skin-color);
 }
+.service-item-inner .icon .bx {
+    font-size: 50px;
+    line-height: 60px;
+    color: var(--skin-color);
+}
 .service-item .service-item-inner:hover .icon {
     background: var(--skin-color);
 }
 .service-item .service-item-inner:hover .icon .fa {
+    font-size: 25px;
+    color: #ffffff;
+}
+.service-item .service-item-inner:hover .icon .bx {
     font-size: 25px;
     color: #ffffff;
 }
